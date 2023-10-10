@@ -673,7 +673,7 @@ function eval()
 {
     if(true)//allconnected
     {
-        window.open("/home2/kali/Desktop/web/template/index.html", "_blank");   
+        window.open("graph.html", "_blank");   
     }
 
 }        
