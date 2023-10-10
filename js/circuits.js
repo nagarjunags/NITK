@@ -675,6 +675,9 @@ function eval()
     {
         window.open("graph.html", "_blank");   
     }
-
+    else
+    {
+        window.alert("Circuit connection is not Complete");
+    }
 }        
 
