@@ -671,7 +671,7 @@ function toggleConnection(element) {
         }
 function eval()
 {
-    if(true)//allconnected
+    if(allconnected)//allconnected
     {
         window.open("graph.html", "_blank");   
     }
